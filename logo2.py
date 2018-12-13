@@ -64,7 +64,7 @@ def tree(n, l):
 
 bgcolor(0.5, 0.5, 0.5) # 背景色
 ht() # 隐藏turtle
-speed(1) # 速度，1-10渐进，0最快
+speed(0) # 速度，1-10渐进，0最快
 tracer(0, 0)
 pu() # 抬笔
 backward(100)
